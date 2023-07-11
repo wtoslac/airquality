@@ -1,8 +1,8 @@
 ![Nasa:](https://en.wikipedia.org/wiki/File:NASA_logo.svg, "Nasa's logo from wikipedia website.")
-# Airquality Research using Aeronet
+# Airquality Research for NASA Research Grant
 This research is using Aeronet instruments deployed by Nasa.
 
-## Research Leader
+## Principal Investigator (PI)
 - Professor Wing To
 
 ## Contributors
