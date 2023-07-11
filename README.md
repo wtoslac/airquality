@@ -1,4 +1,4 @@
-![Nasa:](https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg, "Nasa's logo from their website.")
+![Nasa:](https://en.wikipedia.org/wiki/File:NASA_logo.svg, "Nasa's logo from wikipedia website.")
 # Airquality Research using Aeronet
 This research is using Aeronet instruments deployed by Nasa.
 
