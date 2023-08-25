@@ -13,3 +13,4 @@ The research performed as part of this project primarily uses the Aeronet instru
 ### Data Acquisition
 - Aeronet: https://aeronet.gsfc.nasa.gov/
 - Wind: https://www.ncei.noaa.gov/access/search/index
+  - Documentation: https://www.ncei.noaa.gov/data/global-hourly/doc/isd-format-document.pdf
