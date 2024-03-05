@@ -8,7 +8,7 @@ The research performed as part of this project primarily uses the Aeronet instru
 
 ## Student Researchers
 - Anthony Castillo
-- Amelia Velazquez Valencia
+- Edward Aldrete
 
 ### Data Acquisition
 - Aeronet: https://aeronet.gsfc.nasa.gov/
