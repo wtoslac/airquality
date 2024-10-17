@@ -8,7 +8,8 @@ The research performed as part of this project primarily uses the Aeronet instru
 
 ## Student Researchers
 - Anthony Castillo
-- Edward Aldrete
+- Allen Rosales
+- Robert Saltos
 
 ### Data Acquisition
 - Aeronet: https://aeronet.gsfc.nasa.gov/
